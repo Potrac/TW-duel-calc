@@ -4,7 +4,7 @@
 // @author Potrac
 // @include	https://*.the-west.*/game.php*
 // @include	https://*.tw.innogames.*/game.php*
-// @downloadURL https://github.com/Potrac
+// @downloadURL https://raw.githubusercontent.com/Potrac/TW-duel-calc/master/tw-duel-calc.js
 // ==/UserScript==
 
 
